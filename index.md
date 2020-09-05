@@ -1,1 +1,3 @@
-## Welcome to Lindsey's GitHub Website
+## Welcome to Lindsey's GitHub Webpage
+
+
